@@ -20,7 +20,7 @@ The project is organized into the following main modules:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com//ml-project.git
+   git clone https://github.com/Somesh-Todankar/Marks-Predictor.git
 
 
 
